@@ -9,4 +9,5 @@ I'm solo developing a game called "Tempus Invictus." This repository only includ
 - Sprites
 - All other assets
 
-The purpose of this repository is to demonstrate the code I have written, nearly from-scratch, for this project of mine. The game in its entirity will exist as a working demo elsewhere.
+The purpose of this repository is to demonstrate the code I have written, nearly from-scratch, for this project of mine. The game in its entirity will exist as a working demo at the following link:
+https://anomicnonentity.itch.io/tempusinvictusdemo1
