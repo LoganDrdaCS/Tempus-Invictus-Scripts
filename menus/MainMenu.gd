@@ -31,7 +31,6 @@ func _input(event):
 	and ControllerSupport.joypadInUse and main_settings_menu.camera_2d.current == true:
 		main_settings_menu._on_CancelButton_pressed()
 
-
 #                                     *
 #                                     *
 ###############################################################################

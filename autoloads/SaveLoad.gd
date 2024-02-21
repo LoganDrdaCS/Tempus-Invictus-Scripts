@@ -2,17 +2,13 @@ extends Node
 
 # STILL NEEDS A LOOKTHROUGH
 
-
-
-
 # HERE IS HOW TO USE IT:
 # print(SaveLoad.levelSpecificData.LevelTest1.TimeRecord)
 # print(SaveLoad.globalData.Sensitivity)
 
 # USE THIS FOR THE EXPORT, AND MAKE SURE YOU HAVE THE RIGHT GLES VERSION ON:
-#const SAVE_FILE = "user://TempusInvictusSaveFileA4.save" ##### for export
+#const SAVE_FILE = "user://TempusInvictusSave1.save" ##### for export
 const SAVE_FILE = "res://temporary/SaveData/SavedFile.save"  ### for non-export
-
 
 var levelSpecificData = {}
 var globalData = {}
