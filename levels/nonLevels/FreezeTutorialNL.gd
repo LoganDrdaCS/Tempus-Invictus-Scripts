@@ -125,7 +125,7 @@ func textNumber_checker():
 			centeredLabelDefault.text = "Here is your first enemy, the SPECTRE."
 		12:
 			player.canMove = true
-			centeredLabelDefault.text = "Try moving to freeze the surrounding world. Notice that the pre-timer stops and the main timer begins."
+			centeredLabelDefault.text = "Try moving to freeze the surrounding world. Use the 'A' or 'D' keys to move.\nNotice that the pre-timer stops and the main timer begins."
 		13:
 			player.canShoot = true
 			player.aimRotator.visible = true
@@ -133,7 +133,7 @@ func textNumber_checker():
 				Input.set_mouse_mode(Input.MOUSE_MODE_CONFINED)
 			else:
 				Input.set_mouse_mode(Input.MOUSE_MODE_VISIBLE)
-			centeredLabelDefault.text = "Try shooting the enemy a few times."
+			centeredLabelDefault.text = "Try shooting the enemy a few times. Use the left mouse button for this."
 		14:
 			hourglass.visible = true
 			centeredLabelDefault.text = "This is the hourglass, which is only in FREEZE mode."
@@ -149,7 +149,7 @@ func textNumber_checker():
 			centeredLabelDefault.text = "Contacting the hourglass is how you complete a FREEZE mode level."
 		20:
 			player.canJump = true
-			centeredLabelDefault.text = "Try multi-jumping into the hourglass. Hold the jump button for a higher jump each time."
+			centeredLabelDefault.text = "Try multi-jumping into the hourglass. Use the spacebar to jump.\nHold the jump button for a higher jump each time."
 		21:
 			centeredLabelDefault.text = "If all enemies were eliminated, the level was successfully passed..."
 		22:
