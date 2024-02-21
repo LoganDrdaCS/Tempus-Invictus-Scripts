@@ -1,4 +1,4 @@
-# Tempus_Invictus_Scripts
+# Tempus-Invictus-Scripts
  All code/scripting to run the game.
 
 # Play an HTML5 demo version of the game at the link below:
