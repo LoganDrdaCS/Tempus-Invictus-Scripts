@@ -14,7 +14,7 @@ This repository will not allow one to run the game (however, see [Usage](#usage)
 - Sprites
 - All other assets
 
-The purpose of this repository is to demonstrate the code I have written, nearly from-scratch (and starting from nearly from zero-experience), for this project of mine.
+The purpose of this repository is to demonstrate the code I have written, nearly from-scratch (and starting from nearly zero-experience), for this project of mine.
 
 ## Table of Contents
 

@@ -9,3 +9,25 @@ export_presets.cfg
 # Mono-specific ignores
 .mono/
 data_*/
+
+# VS Code specific files
+.vscode/
+*.code-workspace
+
+# Node.js dependencies
+node_modules/
+
+# Compiled output
+dist/
+out/
+
+# Dependency directories
+bower_components/
+jspm_packages/
+typings/
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
