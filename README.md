@@ -1,12 +1,12 @@
 # Tempus Invictus (Just the Scripts)
 
-I have been solo-developing this unique, 2D speedrunner/platformer/shooter with a focus on time manipulation for a long while -- unfortunately, most of my work was done before I discovered version control. As such, there is very limited history aside from my leftover alpha builds which serve mostly as a reminder of how far I've come with this project.
+I have been solo-developing this unique, 2D speedrunner/platformer/shooter with a focus on time manipulation for a long while -- in fact, I had the concept for this game for many years, and I decided to self-learn game development in order to bring it to life. Due to this being one of my earliest projects, most of my work was completed before I discovered version control. As such, there is limited history aside from my leftover alpha builds which serve mostly as a reminder of how far I've come with this project.
 
 ![Burst demo](BurstDemo.gif "Demonstration of the 'Burst' time manipulation ability.")
 
 ![Stasis demo](StasisDemo.gif "Demonstration of the 'Stasis' time manipulation ability.")
 
-This repository will not allow one to run the game (however, see [Usage](#usage) for a way to run a limited version of the game in your browser). The following resources are not included:
+This repository by itself will not allow one to run the game (however, see [Usage](#usage) for a way to run a limited version of the game in your browser). The following resources are not included:
 
 - Audio
 - Video
