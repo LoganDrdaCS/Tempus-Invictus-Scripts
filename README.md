@@ -18,8 +18,8 @@ The purpose of this repository is to demonstrate the code I have written, nearly
 
 ## Table of Contents
 
-- [Usage](#usage)
 - [Further Steps](#further-steps)
+- [Usage](#usage)
 - [Contributing](#contributing)
 
 ## Further Steps
